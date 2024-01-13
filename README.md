@@ -1,8 +1,14 @@
 <img src="https://github.com/ValenGi/valengi/blob/main/banner.PNG" alt="valengi" />
 
 <h1 align="center">Hi 👋, I'm Valentina Gil Antía</h1>
-<h3 align="center">A passionate frontend trainee</h3>
-
+<h3 align="center">About me</h3>
+<p>I am a passionate front-end developer with proven experience in creating visually stunning web experiences. My focus is on merging design and functionality using strong skills in HTML, CSS, and JavaScript. I have collaborated on projects, standing out for my ability to transform creative concepts into dynamic and appealing interfaces.</p>
+<h3 align="center">soft skills</h3>
+<p>Communication
+Collaboration
+Adaptability
+Problem-Solving
+Creativity</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valengi&label=Profile%20views&color=0e75b6&style=flat" alt="valengi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valengi" alt="valengi" /></a> </p>
