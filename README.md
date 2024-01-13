@@ -1,4 +1,4 @@
-<img src="https://res-console.cloudinary.com/dpbpnjpjl/media_explorer_thumbnails/5dbf82e399238036964b30d0254c62d5/detailed" alt="valengi" />
+<img src="[https://res-console.cloudinary.com/dpbpnjpjl/media_explorer_thumbnails/5dbf82e399238036964b30d0254c62d5/detailed](https://res.cloudinary.com/dpbpnjpjl/image/upload/v1705172425/rblhsxq3mvphowtint8t.png)" alt="valengi" />
 
 <h1 align="center">Hi 👋, I'm Valentina Gil Antía</h1>
 <h3 align="center">A passionate frontend trainee</h3>
